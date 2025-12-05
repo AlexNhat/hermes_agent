@@ -1,0 +1,31 @@
+id,route,warehouse,delivery_time,delay_minutes,delay_reason,date
+1,Route D,WH1,6.9,45,Weather,2024-10-10
+2,Route C,WH3,6.1,15,None,2024-10-17
+3,Route B,WH5,5.2,5,Breakdown,2024-10-21
+4,Route C,WH2,6.1,60,Weather,2024-10-21
+5,Route D,WH3,5.0,30,Breakdown,2024-10-19
+6,Route C,WH1,4.0,30,Weather,2024-10-20
+7,Route C,WH4,6.7,60,Breakdown,2024-10-12
+8,Route B,WH3,6.3,15,System Issue,2024-10-30
+9,Route D,WH1,4.7,20,None,2024-10-23
+10,Route D,WH4,4.9,45,Weather,2024-10-26
+11,Route B,WH4,3.8,15,Weather,2024-10-27
+12,Route C,WH2,6.5,15,Weather,2024-10-23
+13,Route D,WH2,6.4,5,None,2024-10-14
+14,Route B,WH1,4.0,5,None,2024-10-27
+15,Route C,WH2,6.4,45,Breakdown,2024-10-21
+16,Route C,WH2,7.2,60,Traffic,2024-10-11
+17,Route A,WH2,4.6,10,None,2024-10-26
+18,Route D,WH5,5.3,60,System Issue,2024-10-10
+19,Route D,WH5,5.5,5,Breakdown,2024-10-10
+20,Route A,WH4,3.6,10,Breakdown,2024-10-29
+21,Route C,WH2,7.0,0,None,2024-10-12
+22,Route D,WH1,6.9,15,System Issue,2024-10-24
+23,Route A,WH2,4.0,20,Weather,2024-10-16
+24,Route D,WH5,5.3,60,Weather,2024-10-11
+25,Route A,WH3,6.7,10,Traffic,2024-10-11
+26,Route C,WH5,4.0,30,Breakdown,2024-10-28
+27,Route D,WH5,5.0,30,System Issue,2024-10-22
+28,Route A,WH5,6.5,20,None,2024-10-20
+29,Route A,WH1,3.6,45,Breakdown,2024-10-24
+30,Route B,WH1,5.9,15,None,2024-10-15
